@@ -1,0 +1,6 @@
+Upstream project: https://github.com/Cisco-Talos/clamav
+Release: https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.5.5
+Binary asset: clamav-1.5.5.linux.x86_64.deb
+Corresponding source: https://github.com/Cisco-Talos/clamav/releases/download/clamav-1.5.5/clamav-1.5.5.tar.gz
+License: GPL-2.0-only; see COPYING.txt and COPYING/ in this directory.
+Symbolic links are materialized for NuGet compatibility.
